@@ -1,0 +1,8 @@
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\bin\Debug\RepositoryPattern.DA.exe.config
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\bin\Debug\RepositoryPattern.DA.exe
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\bin\Debug\RepositoryPattern.DA.pdb
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\obj\Debug\RepositoryPattern.DA.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\obj\Debug\RepositoryPattern.DA.csproj.SuggestedBindingRedirects.cache
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\obj\Debug\RepositoryPattern.DA.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\obj\Debug\RepositoryPattern.DA.exe
+C:\Users\USSL\Desktop\C#Project1274326\RepositoryPattern.DA\RepositoryPattern.DA\obj\Debug\RepositoryPattern.DA.pdb
